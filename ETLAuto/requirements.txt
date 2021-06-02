@@ -9,7 +9,7 @@ pytest-parallel
 pytest-selenium==1.17.0
 pytest-ordering==0.6
 requests==2.22.0
-urllib3==1.25.2
+urllib3==1.26.5
 yagmail==0.11.220
 cx-Oracle==7.3.0
 kafka-python==1.4.6
